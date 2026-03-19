@@ -14,7 +14,7 @@ Building scientific software and machine learning methods for atom probe tomogra
 
 ## About
 
-I am a Ph.D. candidate in computational science at FAU Erlangen–Nürnberg. My work sits at the intersection of **scientific machine learning**, **physics-aware modeling**, **instrument control**, and **large-scale experimental data processing**.
+I am a Ph.D. candidate in Computational Science at FAU Erlangen–Nürnberg. My work sits at the intersection of **scientific machine learning**, **physics-aware modeling**, **instrument control**, and **large-scale experimental data processing**.
 
 I build end-to-end research software for real laboratory systems, from acquisition and calibration to reconstruction, visualization, and analysis.
 
@@ -30,21 +30,19 @@ I build end-to-end research software for real laboratory systems, from acquisiti
 
 ---
 
-## Featured Projects
+## Featured Repositories
 
 ### [PyCCAPT](https://github.com/mehrpad/pyccapt)
 Open-source Python framework for **atom probe tomography instrument control, calibration, reconstruction, and visualization**.
 
+### [TDS Data Acquisition](https://github.com/mehrpad/TDS_data_acquisition)
+Python software for **temperature-programmed resistivity experiments**, including instrument control, PI/PID-based temperature regulation, and structured experiment logging.
+
 ### [PT100 Temperature Control for Heating Stage](https://github.com/mehrpad/pt100_temreture_control_heating_stage)
-Embedded control system for a **PT100-based laboratory heating stage** with PID control, local UI, and data logging.
+Embedded control system for a **PT100-based laboratory heating stage** with PID control, local user interface, and SD-card data logging.
 
 ### [OXCART Transfer Arm Control](https://github.com/mehrpad/oxcart_transfer_arm)
-Arduino-based control project for the **OXCART buffer chamber transfer arm**, focused on laboratory hardware control.
-
-### [YouTube Playlist Downloader](https://github.com/mehrpad/YouTube_playlist_downloader)
-Small Python utility for downloading and organizing content from YouTube playlists.
-
-> I also recommend pinning **TDS_data_acquisition** instead of the YouTube downloader if you want your profile to look more research-oriented.
+Arduino-based control project for the **OXCART buffer chamber transfer arm**, focused on laboratory hardware control and setup integration.
 
 ---
 
